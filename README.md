@@ -1,6 +1,6 @@
 # Dispositivo de Estimulación Sensorial para Bebés Prematuros
 
-![Banner del proyecto](URL_DE_UNA_IMAGEN_DEL_PROYECTO)  Este repositorio contiene toda la documentación, el software y los archivos de diseño de hardware para el "Dispositivo de Estimulación Temprana para Bebés Prematuros", un proyecto desarrollado en la **Universidad Politécnica de Chiapas** en colaboración con el **Hospital de Especialidades Pediátricas**.
+Este repositorio contiene toda la documentación, el software y los archivos de diseño de hardware para el "Dispositivo de Estimulación Temprana para Bebés Prematuros", un proyecto desarrollado en la **Universidad Politécnica de Chiapas** en colaboración con el **Hospital de Especialidades Pediátricas**.
 
 El sistema integra estímulos auditivos, táctiles y visuales de forma controlada para apoyar el desarrollo neurológico, motor y emocional de los bebés nacidos prematuramente, basándose en principios de neurociencia del desarrollo y el método Rood.
 
