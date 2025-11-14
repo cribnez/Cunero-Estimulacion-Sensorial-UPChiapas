@@ -6,7 +6,13 @@ El sistema integra estímulos auditivos, táctiles y visuales de forma controlad
 
 ## 📄 Artículo del Proyecto
 
-El artículo completo que detalla el marco teórico, el diseño y la metodología de este sistema está disponible en la carpeta de documentación:
+El artículo que detalla el marco teórico, el diseño y la metodología de este sistema fue publicado en la revista **"Tecnología y Ciencia Aplicada"** (ISSN: 2992-8338).
+
+Esta es la revista académica semestral, arbitrada por pares, del Tecnológico Nacional de México/Centro Nacional de Investigación y Desarrollo Tecnológico (TecNM/CENIDET).
+
+* **Publicación:** Vol. 8 / Num. 1, Enero - Junio 2025
+
+Puedes consultar una copia del manuscrito aceptado en la carpeta de documentación del repositorio:
 
 * **[Consulta el artículo aquí](./docs/Dispositivo%20de%20estimulación%20temprana%20para%20bebés%20prematuros.pdf)**
 
@@ -24,7 +30,7 @@ El artículo completo que detalla el marco teórico, el diseño y la metodologí
 
 * **/hardware**: Contiene los archivos `.STL` para la impresión 3D de la carcasa del dispositivo.
 * **/software**: Incluye el script de Python (`front_3.py`) que controla la interfaz de usuario y los actuadores (GPIO de la Raspberry Pi).
-* **/docs**: Contiene el artículo principal (`Dispositivo de estimulación temprana para bebés prematuros.pdf`) y otra documentación de soporte.
+* **/docs**: Contiene el artículo principal publicado (`2025_Articulo_Estimulacion_Prematuros_TyCA.pdf.pdf`) y otra documentación de soporte.
 
 ## ⚙️ Requisitos de Software
 
