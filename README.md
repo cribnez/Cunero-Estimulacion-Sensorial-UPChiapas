@@ -45,14 +45,14 @@ Las librerías de Python necesarias para ejecutar la interfaz se listan en el ar
 ## 📸 Vistas del Hardware
 
 <p align="center">
-  <img src="assets/diseno_final.png" alt="Diseño final del dispositivo en 3D" width="600">
+  <img src="assets/diseno_final.png" alt="Diseño final del dispositivo en 3D" width="350">
   <br>
-  <em>Diseño final del dispositivo (render 3D).</em>
+  <em>Diseño final del dispositivo.</em>
 </p>
 <p align="center">
-  <img src="assets/colchon_vibrador.png" alt="Colchón de estimulación con motores vibradores" width="600">
+  <img src="assets/colchon_vibrador.png" alt="Colchón de estimulación con motores vibradores" width="350">
   <br>
-  <em>Colchón de estimulación con motores vibradores (módulo táctil).</em>
+  <em>Colchón de estimulación con motores vibradores.</em>
 </p>
 
 ## 📄 Licencia
