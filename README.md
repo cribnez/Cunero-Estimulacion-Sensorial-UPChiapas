@@ -14,7 +14,7 @@ Esta es la revista académica semestral, arbitrada por pares, del Tecnológico N
 
 Puedes consultar una copia del manuscrito aceptado en la carpeta de documentación del repositorio:
 
-* **[Consulta el artículo aquí](./docs/2025_Articulo_Estimulacion_Prematuros_TyCA.pdf.pdf)**
+* **[Consulta el artículo aquí](./docs/2025_Articulo_Estimulacion_Prematuros_TyCA.pdf)**
 
 ---
 
