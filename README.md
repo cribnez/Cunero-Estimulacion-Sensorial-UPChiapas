@@ -42,6 +42,19 @@ Las librerías de Python necesarias para ejecutar la interfaz se listan en el ar
 -   RPi.GPIO
 -   playsound
 
+## 📸 Vistas del Hardware
+
+<p align="center">
+  <img src="assets/diseno_final.png" alt="Diseño final del dispositivo en 3D" width="600">
+  <br>
+  <em>Diseño final del dispositivo (render 3D).</em>
+</p>
+<p align="center">
+  <img src="assets/colchon_vibrador.png" alt="Colchón de estimulación con motores vibradores" width="600">
+  <br>
+  <em>Colchón de estimulación con motores vibradores (módulo táctil).</em>
+</p>
+
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
