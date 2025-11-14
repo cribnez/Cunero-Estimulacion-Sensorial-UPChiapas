@@ -4,6 +4,14 @@ Este repositorio contiene toda la documentación, el software y los archivos de 
 
 El sistema integra estímulos auditivos, táctiles y visuales de forma controlada para apoyar el desarrollo neurológico, motor y emocional de los bebés nacidos prematuramente, basándose en principios de neurociencia del desarrollo y el método Rood.
 
+## 📄 Artículo del Proyecto
+
+El artículo completo que detalla el marco teórico, el diseño y la metodología de este sistema está disponible en la carpeta de documentación:
+
+* **[Consulta el artículo aquí](./docs/Dispositivo%20de%20estimulación%20temprana%20para%20bebés%20prematuros.pdf)**
+
+---
+
 ## 🌟 Características Principales
 
 * **Módulo Auditivo:** Emite sonidos suaves (música clásica, voces parentales) a niveles seguros para el neonato.
@@ -16,7 +24,7 @@ El sistema integra estímulos auditivos, táctiles y visuales de forma controlad
 
 * **/hardware**: Contiene los archivos `.STL` para la impresión 3D de la carcasa del dispositivo.
 * **/software**: Incluye el script de Python (`front_3.py`) que controla la interfaz de usuario y los actuadores (GPIO de la Raspberry Pi).
-* **/docs**: Documentación detallada del proyecto, incluyendo el marco teórico y la metodología.
+* **/docs**: Contiene el artículo principal (`Dispositivo de estimulación temprana para bebés prematuros.pdf`) y otra documentación de soporte.
 
 ## ⚙️ Requisitos de Software
 
