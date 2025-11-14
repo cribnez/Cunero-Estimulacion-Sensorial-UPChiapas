@@ -28,12 +28,6 @@ Las librerías de Python necesarias para ejecutar la interfaz se listan en el ar
 -   RPi.GPIO
 -   playsound
 
-## 👥 Créditos
-
-Este proyecto fue desarrollado por:
-* **Desarrolladores:** Calvo Cruz Diego Andrés, Benítez Muñoz Josué.
-* **Asesores:** Dr. Christian Roberto Ibáñez Nangüelú, Dr. Irving Roque López.
-
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
